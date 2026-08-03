@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Shivaram 👋
 
-<!--
-**shivaramv357/shivaramv357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master's Student in Road Traffic Engineering at **Westsächsische Hochschule Zwickau (WHZ), Germany**.
 
-Here are some ideas to get you started:
+I am passionate about autonomous driving, intelligent transportation systems (ITS), V2X communication, traffic simulation, and AI-based vehicle perception.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 Education
+
+- M.Sc. Road Traffic Engineering
+- Westsächsische Hochschule Zwickau (WHZ)
+- Germany
+
+---
+
+## 🚀 Areas of Interest
+
+- Intelligent Transportation Systems (ITS)
+- V2X Communication
+- Autonomous Driving
+- Traffic Simulation
+- Deep Learning
+- Vehicle Control Systems
+- Computer Vision
+
+---
+
+## 🛠️ Technical Skills
+
+- Python
+- MATLAB & Simulink
+- SUMO
+- BeamNG.tech
+- TraCI
+- BeamNGpy
+- TensorFlow / Keras
+- Raspberry Pi
+- Arduino
+- Git
+
+---
+
+## 📌 Featured Projects
+
+- Autonomous Vehicle Path-Following Control
+- One-Way Co-Simulation Between SUMO and BeamNG.tech
+- Deep Learning-Based Autonomous Racing Robot (PiRacer)
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: linkedin.com/in/shivaram-velmurugan
+- Email: shivaramv.de@gmail.com
