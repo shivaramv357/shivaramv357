@@ -1,26 +1,19 @@
 # Hi, I'm Shivaram 👋
 
-Master's Student in Road Traffic Engineering at **Westsächsische Hochschule Zwickau (WHZ), Germany**.
+🎓 Master's Student in **Road Traffic Engineering** at **Westsächsische Hochschule Zwickau (WHZ), Germany**
 
-I am passionate about autonomous driving, intelligent transportation systems (ITS), V2X communication, traffic simulation, and AI-based vehicle perception.
-
----
-
-## 🎓 Education
-
-- M.Sc. Road Traffic Engineering
-- Westsächsische Hochschule Zwickau (WHZ)
-- Germany
+I am passionate about **Autonomous Driving**, **Intelligent Transportation Systems (ITS)**, **V2X Communication**, **Traffic Simulation**, and **Artificial Intelligence**. I enjoy developing software and simulation frameworks that contribute to future intelligent mobility.
 
 ---
 
 ## 🚀 Areas of Interest
 
-- Intelligent Transportation Systems (ITS)
-- V2X Communication
 - Autonomous Driving
+- Intelligent Transportation Systems (ITS)
+- Connected & Cooperative ITS (C-ITS)
+- V2X Communication
 - Traffic Simulation
-- Deep Learning
+- Deep Learning for Autonomous Vehicles
 - Vehicle Control Systems
 - Computer Vision
 
@@ -28,24 +21,59 @@ I am passionate about autonomous driving, intelligent transportation systems (IT
 
 ## 🛠️ Technical Skills
 
+### Programming
 - Python
-- MATLAB & Simulink
+- MATLAB
+- Java
+
+### Simulation & Development
 - SUMO
 - BeamNG.tech
-- TraCI
 - BeamNGpy
-- TensorFlow / Keras
+- TraCI
+- MATLAB / Simulink
+- Visual Studio Code
+- Git & GitHub
+
+### AI & Robotics
+- TensorFlow
+- Keras
 - Raspberry Pi
 - Arduino
-- Git
 
 ---
 
 ## 📌 Featured Projects
 
-- Autonomous Vehicle Path-Following Control
-- One-Way Co-Simulation Between SUMO and BeamNG.tech
-- Deep Learning-Based Autonomous Racing Robot (PiRacer)
+### 🚗 Autonomous Vehicle Path-Following Control
+Implementation of Stanley lateral and PI longitudinal controllers for autonomous vehicle path tracking using MATLAB/Simulink.
+
+### 🚦 One-Way Co-Simulation Between SUMO and BeamNG.tech
+Development of a Python middleware enabling one-way synchronization between SUMO and BeamNG.tech for realistic 3D traffic visualization.
+
+### 🤖 Deep Learning-Based Autonomous Racing Robot (PiRacer)
+End-to-end autonomous driving using Raspberry Pi 5 and the DonkeyCar framework with multi-dataset deep learning.
+
+---
+
+## 🌱 Currently Working On
+
+- Research Assistant – TransUrban Project
+- Two-Way SUMO–BeamNG Co-Simulation
+- V2X Laboratory Development
+- Public Transport Priority using V2X Technologies
+
+---
+
+## 🎯 Career Interests
+
+I am interested in opportunities related to:
+
+- Intelligent Transportation Systems
+- V2X Communication
+- Traffic Simulation
+- Autonomous Driving
+- ADAS
 
 ---
 
