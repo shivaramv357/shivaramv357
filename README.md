@@ -8,11 +8,11 @@ I am passionate about **Autonomous Driving**, **Intelligent Transportation Syste
 
 ## Areas of Interest
 
-- Autonomous Driving
-- Intelligent Transportation Systems (ITS)
 - Connected & Cooperative ITS (C-ITS)
+- Intelligent Transportation Systems (ITS)
 - V2X Communication
 - Traffic Simulation
+- Autonomous Driving
 - Deep Learning for Autonomous Vehicles
 - Vehicle Control Systems
 - Computer Vision
@@ -59,9 +59,9 @@ End-to-end autonomous driving using Raspberry Pi 5 and the DonkeyCar framework w
 ## Currently Working On
 
 - Research Assistant – TransUrban Project
-- Two-Way SUMO–BeamNG Co-Simulation
-- V2X Laboratory Development
-- Public Transport Priority using V2X Technologies
+  - Two-Way SUMO–BeamNG Co-Simulation
+  - V2X Laboratory Development
+  - Public Transport Priority using V2X Technologies
 
 ---
 
