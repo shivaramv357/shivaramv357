@@ -1,12 +1,12 @@
 # Hi, I'm Shivaram 👋
 
-🎓 Master's Student in **Road Traffic Engineering** at **Westsächsische Hochschule Zwickau (WHZ), Germany**
+Master's Student in **Road Traffic Engineering** at **Westsächsische Hochschule Zwickau (WHZ), Germany**
 
 I am passionate about **Autonomous Driving**, **Intelligent Transportation Systems (ITS)**, **V2X Communication**, **Traffic Simulation**, and **Artificial Intelligence**. I enjoy developing software and simulation frameworks that contribute to future intelligent mobility.
 
 ---
 
-## 🚀 Areas of Interest
+## Areas of Interest
 
 - Autonomous Driving
 - Intelligent Transportation Systems (ITS)
@@ -19,7 +19,7 @@ I am passionate about **Autonomous Driving**, **Intelligent Transportation Syste
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Programming
 - Python
@@ -43,20 +43,20 @@ I am passionate about **Autonomous Driving**, **Intelligent Transportation Syste
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🚗 Autonomous Vehicle Path-Following Control
+### Autonomous Vehicle Path-Following Control
 Implementation of Stanley lateral and PI longitudinal controllers for autonomous vehicle path tracking using MATLAB/Simulink.
 
-### 🚦 One-Way Co-Simulation Between SUMO and BeamNG.tech
+### One-Way Co-Simulation Between SUMO and BeamNG.tech
 Development of a Python middleware enabling one-way synchronization between SUMO and BeamNG.tech for realistic 3D traffic visualization.
 
-### 🤖 Deep Learning-Based Autonomous Racing Robot (PiRacer)
+### Deep Learning-Based Autonomous Racing Robot (PiRacer)
 End-to-end autonomous driving using Raspberry Pi 5 and the DonkeyCar framework with multi-dataset deep learning.
 
 ---
 
-## 🌱 Currently Working On
+## Currently Working On
 
 - Research Assistant – TransUrban Project
 - Two-Way SUMO–BeamNG Co-Simulation
@@ -65,7 +65,7 @@ End-to-end autonomous driving using Raspberry Pi 5 and the DonkeyCar framework w
 
 ---
 
-## 🎯 Career Interests
+## Career Interests
 
 I am interested in opportunities related to:
 
@@ -77,7 +77,7 @@ I am interested in opportunities related to:
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 - LinkedIn: [linkedin.com/in/shivaram-velmurugan](https://www.linkedin.com/in/shivaram-velmurugan/)
 - Email: shivaramv.de@gmail.com
