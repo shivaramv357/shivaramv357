@@ -51,5 +51,5 @@ I am passionate about autonomous driving, intelligent transportation systems (IT
 
 ## 📫 Connect with Me
 
-- LinkedIn: linkedin.com/in/shivaram-velmurugan
+- LinkedIn: [linkedin.com/in/shivaram-velmurugan](https://www.linkedin.com/in/shivaram-velmurugan/)
 - Email: shivaramv.de@gmail.com
