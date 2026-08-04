@@ -2,19 +2,27 @@
 
 Master's Student in **Road Traffic Engineering** at **Westsächsische Hochschule Zwickau (WHZ), Germany**
 
-I am passionate about **Autonomous Driving**, **Intelligent Transportation Systems (ITS)**, **V2X Communication**, **Traffic Simulation**, and **Artificial Intelligence**. I enjoy developing software and simulation frameworks that contribute to future intelligent mobility.
+I am passionate about Intelligent Transportation Systems (ITS), Cooperative ITS (C-ITS), Vehicle-to-Everything (V2X) communication, Traffic Simulation, and Autonomous Driving. I enjoy developing simulation frameworks, vehicle control systems, and intelligent transportation solutions that contribute to future connected and automated mobility.
+
+---
+
+## Education
+
+**M.Sc. Road Traffic Engineering**
+Westsächsische Hochschule Zwickau (WHZ), Germany
+Expected Graduation: 2027
 
 ---
 
 ## Areas of Interest
 
-- Connected & Cooperative ITS (C-ITS)
 - Intelligent Transportation Systems (ITS)
-- V2X Communication
-- Traffic Simulation
+- Cooperative Intelligent Transportation Systems (C-ITS)
+- Vehicle-to-Everything (V2X) Communication
 - Autonomous Driving
-- Deep Learning for Autonomous Vehicles
+- Traffic Simulation
 - Vehicle Control Systems
+- Deep Learning for Autonomous Vehicles
 - Computer Vision
 
 ---
@@ -25,6 +33,7 @@ I am passionate about **Autonomous Driving**, **Intelligent Transportation Syste
 - Python
 - MATLAB
 - Java
+- SQL
 
 ### Simulation & Development
 - SUMO
@@ -35,9 +44,7 @@ I am passionate about **Autonomous Driving**, **Intelligent Transportation Syste
 - Visual Studio Code
 - Git & GitHub
 
-### AI & Robotics
-- TensorFlow
-- Keras
+### Embedded Platforms
 - Raspberry Pi
 - Arduino
 
@@ -56,12 +63,11 @@ End-to-end autonomous driving using Raspberry Pi 5 and the DonkeyCar framework w
 
 ---
 
-## Currently Working On
+## Current Focus
 
-- Research Assistant – TransUrban Project
-  - Two-Way SUMO–BeamNG Co-Simulation
-  - V2X Laboratory Development
-  - Public Transport Priority using V2X Technologies
+- Research Assistant at the TransUrban Project
+- Master's Thesis (October 2026)
+- ITS • C-ITS • V2X • Traffic Simulation
 
 ---
 
@@ -70,10 +76,12 @@ End-to-end autonomous driving using Raspberry Pi 5 and the DonkeyCar framework w
 I am interested in opportunities related to:
 
 - Intelligent Transportation Systems
-- V2X Communication
+- Cooperative ITS (C-ITS)
+- Vehicle-to-Everything (V2X)
 - Traffic Simulation
 - Autonomous Driving
 - ADAS
+- Connected and Automated Mobility
 
 ---
 
