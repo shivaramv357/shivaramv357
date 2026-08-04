@@ -8,9 +8,9 @@ I am passionate about Intelligent Transportation Systems (ITS), Cooperative ITS 
 
 ## Education
 
-**M.Sc. Road Traffic Engineering**
-Westsächsische Hochschule Zwickau (WHZ), Germany
-Expected Graduation: 2027
+**M.Sc. Road Traffic Engineering**  
+Westsächsische Hochschule Zwickau (WHZ), Germany  
+**Expected Graduation:** 2027
 
 ---
 
@@ -45,8 +45,8 @@ Expected Graduation: 2027
 - Git & GitHub
 
 ### Embedded Platforms
-- Raspberry Pi
-- Arduino
+- Raspberry Pi 5
+- Arduino UNO R4 WiFi
 
 ---
 
@@ -65,9 +65,9 @@ End-to-end autonomous driving using Raspberry Pi 5 and the DonkeyCar framework w
 
 ## Current Focus
 
-- Research Assistant at the TransUrban Project
-- Master's Thesis (October 2026)
-- ITS • C-ITS • V2X • Traffic Simulation
+- Working as a Research Assistant on the TransUrban Project at WHZ.
+- Developing a V2X laboratory environment for C-ITS applications.
+- Seeking an industry-based Master's thesis opportunity starting in October 2026.
 
 ---
 
@@ -87,5 +87,6 @@ I am interested in opportunities related to:
 
 ## Connect with Me
 
+- GitHub: https://github.com/shivaramv357
 - LinkedIn: [linkedin.com/in/shivaram-velmurugan](https://www.linkedin.com/in/shivaram-velmurugan/)
 - Email: shivaramv.de@gmail.com
